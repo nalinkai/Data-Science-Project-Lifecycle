@@ -1,2 +1,2 @@
-# nalinkai-Data-Science-Project-Lifecycle
+# Data-Science-Project-Lifecycle
 hotel-booking-analysis-project
